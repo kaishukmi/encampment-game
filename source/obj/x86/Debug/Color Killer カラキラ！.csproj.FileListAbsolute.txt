@@ -1,0 +1,32 @@
+Z:\部活用\Color Killer カラキラ！\bin\Debug\Color Killer カラキラ！.exe
+Z:\部活用\Color Killer カラキラ！\bin\Debug\Color Killer カラキラ！.pdb
+Z:\部活用\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.csproj.GenerateResource.Cache
+Z:\部活用\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.exe
+Z:\部活用\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.pdb
+Z:\部活用\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.csprojResolveAssemblyReference.cache
+Z:\部活用\カラキラ\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.exe
+Z:\部活用\カラキラ\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.pdb
+Z:\部活用\カラキラ\Color Killer カラキラ！\bin\Debug\Color Killer カラキラ！.exe
+Z:\部活用\カラキラ\Color Killer カラキラ！\bin\Debug\Color Killer カラキラ！.pdb
+Z:\部活用\カラキラ\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.csprojResolveAssemblyReference.cache
+Z:\部活用\カラキラ\Color Killer カラキラ！\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\部活用\カラキラ\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.csproj.GenerateResource.Cache
+C:\Users\Kaisyu\Documents\プログラミング作品等\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.exe
+C:\Users\Kaisyu\Documents\プログラミング作品等\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.pdb
+C:\Users\Kaisyu\Documents\プログラミング作品等\Color Killer カラキラ！\bin\Debug\Color Killer カラキラ！.exe
+C:\Users\Kaisyu\Documents\プログラミング作品等\Color Killer カラキラ！\bin\Debug\Color Killer カラキラ！.pdb
+C:\Users\Kaisyu\Documents\プログラミング作品等\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.csprojResolveAssemblyReference.cache
+C:\Users\Kaisyu\Documents\プログラミング作品等\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.csproj.GenerateResource.Cache
+C:\Users\Kaisyu\Documents\バックアップ\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.exe
+C:\Users\Kaisyu\Documents\バックアップ\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.pdb
+C:\Users\Kaisyu\Documents\バックアップ\Color Killer カラキラ！\bin\Debug\Color Killer カラキラ！.exe
+C:\Users\Kaisyu\Documents\バックアップ\Color Killer カラキラ！\bin\Debug\Color Killer カラキラ！.pdb
+C:\Users\Kaisyu\Documents\バックアップ\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.csprojResolveAssemblyReference.cache
+C:\Users\Kaisyu\Documents\バックアップ\Color Killer カラキラ！\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kaisyu\Documents\バックアップ\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.csproj.GenerateResource.Cache
+C:\Users\Kaisyu\Documents\プログラミング作品等\Color Killer カラキラ！\obj\x86\Debug\ColorKillerカラキラ.Properties.Resources.resources
+Z:\部活用\Color Killer カラキラ！\obj\x86\Debug\ColorKillerカラキラ.Properties.Resources.resources
+Z:\部活用\Color Killer カラキラ！\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Kaisyu\Documents\プログラミング作品等\Color Killer カラキラ！\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Kaisyu\Desktop\木村ゼミ仮置き場\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.exe
+C:\Users\Kaisyu\Desktop\木村ゼミ仮置き場\Color Killer カラキラ！\obj\x86\Debug\Color Killer カラキラ！.pdb
